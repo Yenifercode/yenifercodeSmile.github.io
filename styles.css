@@ -1,0 +1,44 @@
+
+.head {
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(219, 219, 13);
+    clip-path: circle();
+    margin: auto;
+}
+
+.eye-area {
+    position: absolute;
+    width: 50px;
+    height: 80px;
+    background-color: black;
+    border-radius: 140px;
+    position: absolute;
+    top: 49px;
+}
+.eye1{
+   left: 680px;
+}
+
+.eye2{
+    right: 680px;
+}
+
+.mouth {
+    position: absolute;
+    width: 200px;
+    height: 70px;
+    border: 10px black;
+    border-top: 0;
+    background-color: black;
+    border-radius: 0 0 120px 120px / 0 0 90px 90px;
+    bottom: 460px;
+    left: 650px;
+
+}
+
+p {
+    font-size: 60px;
+    text-align: center;
+}
