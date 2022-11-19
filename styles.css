@@ -41,3 +41,8 @@
     left: 45px;
     border-radius: 0 0 120px 120px / 0 0 90px 90px;
 }
+
+p {
+    text-align: center;
+    font-size: 50px;
+}
